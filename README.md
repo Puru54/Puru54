@@ -137,5 +137,5 @@ This profile’s activity and language usage evolve as I work on new projects.
 
 ### Support
 
-If you like my work, consider starring some of my repositories or connecting with me on LinkedIn.
+If you like my work, consider starring some of my repositories or connecting with me on LinkedIn!
 
