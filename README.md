@@ -19,55 +19,34 @@
 
 ---
 
-```yaml
-name: "Purushotam Adhikari"
-handles:
-  github: "caffinecoder"
-  x: "Puru54"
-  discord: "Errorist"
-portfolio: "https://caffinecoder.com"
-blog: "https://dev.to/caffinecoder54"
-located_in: "Thimphu, Bhutan"
-from: "Bhutan"
-role: "Technical Lead • Backend & Cybersecurity"
-company: "Xceed Studio"
-education:
-  - "BSc Blockchain Development, Royal University of Bhutan (RUB)"
-past_experiences:
-  - ["Technical Lead", "Backend • DevOps • Cloud", "Xceed Studio", "Bhutan", "Jul 2023 - Present"]
-  - ["Backend Developer", "Node.js • Docker • Servers", "Xceed Studio / Start-up Ventures", "Bhutan", "Jul 2023 - Present"]
-  - ["Web Developer (Freelance)", "WordPress • Web Development", "Gyalpozhing College of Information Technology", "Bhutan", "Sep 2022 - Jun 2025"]
-  - ["GCIT DevForge President", "Team Management • Startups", "GCIT DevForge", "Bhutan", "Aug 2023 - Feb 2024"]
-  - ["GCIT DevForge Vice President", "Team Management • Community", "GCIT DevForge", "Bhutan", "Mar 2023 - Aug 2023"]
-  - ["XRPL Campus Ambassador", "XRPL • Blockchain", "XRP Ledger Community", "Remote", "Jan 2024 - Oct 2024"]
-fields_of_interests:
-  - "Backend Engineering"
-  - "Cybersecurity & DevSecOps"
-  - "Blockchain & Web3"
-  - "Cloud & Servers"
-  - "WordPress & Web Platforms"
-technical_background:
-  - "Node.js • Express.js"
-  - "Linux • Servers • DevOps"
-  - "Docker • CI/CD"
-  - "AWS Cloud Foundations"
-  - "WordPress & PHP"
-  - "Web Security & Threat Modeling"
-currently_learning:
-  - "Advanced DevSecOps practices"
-  - "Scalable backend architectures"
-will_learn:
-  - "AI-driven security tooling"
-  - "Large-scale distributed systems"
-hobbies:
-  - "Building side projects & tools"
-  - "Writing & sharing on dev.to"
-  - "Exploring startup ecosystems"
-```
+### Profile
+
+- Name: **Purushotam Adhikari**  
+- Handles:  
+  - GitHub: `caffinecoder`  
+  - X: `Puru54`  
+  - Discord: `Errorist`  
+- Portfolio: `https://caffinecoder.com`  
+- Blog: `https://dev.to/caffinecoder54`  
+- Location: **Thimphu, Bhutan**  
+- From: **Bhutan**  
+- Current role: **Technical Lead – Backend and Cybersecurity at Xceed Studio**  
+- Education: **BSc Blockchain Development, Royal University of Bhutan (RUB)**  
+- Experience highlights:  
+  - Technical Lead, Xceed Studio (backend, DevOps, cloud)  
+  - Backend Developer, Xceed Studio / start-up ventures (Node.js, Docker, servers)  
+  - Web Developer (freelance), Gyalpozhing College of Information Technology  
+  - GCIT DevForge President and Vice President (team management, startups, community)  
+  - XRPL Campus Ambassador, XRP Ledger Community (remote)  
+- Fields of interest: backend engineering, cybersecurity and DevSecOps, blockchain and Web3, cloud and servers, WordPress and web platforms  
+- Technical background: Node.js and Express.js, Linux and servers, DevOps and CI/CD, AWS Cloud Foundations, WordPress and PHP, web security and threat modeling  
+- Currently learning: advanced DevSecOps practices, scalable backend architectures  
+- Planning to learn: AI-driven security tooling, large-scale distributed systems  
+- Hobbies: building side projects and tools, writing and sharing on dev.to, exploring startup ecosystems  
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
 Experienced Technical Lead specializing in backend development, cybersecurity, and blockchain technology. I’ve worked on projects like **Tix.bt**, Bhutan’s first digital ticketing platform, helping transform how events are managed and experienced.  
 I work across **Node.js, Express.js, WordPress, AWS, DevOps, and Web3**, with a strong focus on building scalable, secure, and high-performance systems.  
@@ -76,17 +55,17 @@ Passionate about **innovation, system optimization, and emerging technologies**�
 
 ---
 
-### ⚡ Recent Highlights
+### Recent Highlights
 
-1. 🚀 Leading backend, security, and infrastructure at **Xceed Studio**, building products for Bhutan and beyond.
-2. 🎟️ Contributed to **Tix.bt**, Bhutan’s first digital ticketing platform, powering historic events and concerts.
-3. 🛡️ Strengthening my **DevSecOps** and **cloud security** skills through real-world projects and certifications.
-4. 🌐 Running **caffinecoder.com** and sharing knowledge through **dev.to/caffinecoder54**.
-5. 🤝 Open to collaborating on impactful backend, cybersecurity, and Web3 projects.
+1. Leading backend, security, and infrastructure at **Xceed Studio**, building products for Bhutan and beyond.  
+2. Contributed to **Tix.bt**, Bhutan’s first digital ticketing platform, powering historic events and concerts.  
+3. Strengthening DevSecOps and cloud security skills through real-world projects and certifications.  
+4. Running **caffinecoder.com** and sharing knowledge through **dev.to/caffinecoder54**.  
+5. Open to collaborating on impactful backend, cybersecurity, and Web3 projects.  
 
 ---
 
-### 🧰 Tech Stack
+### Tech Stack
 
 **Languages**
 
@@ -111,53 +90,46 @@ Passionate about **innovation, system optimization, and emerging technologies**�
 
 ---
 
-### 🐱 My GitHub Data
+### My GitHub Data
 
-> 📦 **X kB** Used in GitHub's Storage  
-> 🏆 **N** Contributions in the Year **2026**  
-> 📜 **N** Public Repositories  
-> 🔑 **N** Private Repositories  
+These values change over time. For the most accurate and up-to-date information, use GitHub’s own UI on this profile.
+
+- Storage used: see GitHub account settings for current usage  
+- Contributions in 2026: see the contributions calendar on this profile  
+- Public repositories: see the “Repositories” tab on this profile  
+- Private repositories: managed separately under this account  
 
 ---
 
-### ⏱️ Weekly Development Breakdown
+### Weekly Development Breakdown (example)
 
 ```text
-🕑︎ Time Zone: Asia/Thimphu (UTC+06:00)
+Time Zone: Asia/Thimphu (UTC+06:00)
 
-💬 Programming Languages:
+Sample programming language usage for a typical week:
 TypeScript               4 hrs 12 mins   ███████░░░░░░░░░░░░░░░   35.0 %
 Python                   3 hrs 05 mins   █████░░░░░░░░░░░░░░░░   26.0 %
 Other                    1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░   12.5 %
 Markdown                 1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░   09.7 %
-Bash                     0 hr 45 mins    █░░░░░░░░░░░░░░░░░░░   06.3 %
+Bash                     0 hr 45 mins    █░░░░░░░░░░░░░░░░░░   06.3 %
 ```
 
-From: DD Month YYYY - To: DD Month YYYY  
+From: 01 January 2026 - To: 07 January 2026 (example week)
 
-Total Time: **XXX hrs YY mins**
+Total coding time: 10 hours 42 minutes (example)
 
-Top Languages (all-time):
+Top languages for this example period:
 
 ```text
-JavaScript               XXX hrs XX mins ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   NN.NN %
-TypeScript               XXX hrs XX mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   NN.NN %
-Python                   XXX hrs XX mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   NN.NN %
+JavaScript               4 hrs 30 mins ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   42.0 %
+TypeScript               3 hrs 12 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   30.0 %
+Python                   2 hrs 00 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   18.7 %
+Other                    1 hr 00 mins ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀   9.3 %
 ```
 
 ---
 
-### 🎧 Spotify / Now Playing (optional)
-
-<p align="left">
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-  </a>
-</p>
-
----
-
-### 📈 GitHub Stats
+### GitHub Stats
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=Puru54&show_icons=true&theme=radical" alt="GitHub Stats" />
@@ -169,7 +141,7 @@ Python                   XXX hrs XX mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   NN.NN 
 
 ---
 
-### 💖 Support
+### Support
 
 If you like my work, consider starring some of my repositories or connecting with me on LinkedIn!
 
