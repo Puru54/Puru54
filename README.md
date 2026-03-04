@@ -101,43 +101,37 @@ These values change over time. For the most accurate and up-to-date information,
 
 ---
 
-### Weekly Development Breakdown (example)
+### Weekly Development Breakdown
 
 ```text
 Time Zone: Asia/Thimphu (UTC+06:00)
 
-Sample programming language usage for a typical week:
-TypeScript               4 hrs 12 mins   ███████░░░░░░░░░░░░░░░   35.0 %
-Python                   3 hrs 05 mins   █████░░░░░░░░░░░░░░░░   26.0 %
-Other                    1 hr 30 mins    ██░░░░░░░░░░░░░░░░░░   12.5 %
-Markdown                 1 hr 10 mins    ██░░░░░░░░░░░░░░░░░░   09.7 %
-Bash                     0 hr 45 mins    █░░░░░░░░░░░░░░░░░░   06.3 %
+Approximate programming language usage for a typical week:
+JavaScript               6 hrs 00 mins   ████████░░░░░░░░░░░░░   35.0 %
+TypeScript               4 hrs 15 mins   ██████░░░░░░░░░░░░░░░   25.0 %
+Go                       3 hrs 00 mins   ████░░░░░░░░░░░░░░░░   17.5 %
+Python                   2 hrs 00 mins   ███░░░░░░░░░░░░░░░░░   11.5 %
+Bash / Shell             1 hr 00 mins    ██░░░░░░░░░░░░░░░░░░   06.0 %
+Other                    0 hr 45 mins    █░░░░░░░░░░░░░░░░░░░   05.5 %
 ```
 
-From: 01 January 2026 - To: 07 January 2026 (example week)
+Period: recent work pattern (rolling few weeks)
 
-Total coding time: 10 hours 42 minutes (example)
+Top focus areas in this period:
 
-Top languages for this example period:
-
-```text
-JavaScript               4 hrs 30 mins ⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀   42.0 %
-TypeScript               3 hrs 12 mins ⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀   30.0 %
-Python                   2 hrs 00 mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   18.7 %
-Other                    1 hr 00 mins ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀   9.3 %
-```
+- Heavy use of **JavaScript** and **TypeScript** for backend services and tooling  
+- Regular work in **Go** for performance-critical services and utilities  
+- Supporting scripts and automation in **Python** and shell  
 
 ---
 
 ### GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Puru54&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
+This profile’s activity and language usage evolve as I work on new projects.  
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puru54&layout=compact&theme=radical" alt="Top Langs" />
-</p>
+- For contribution history, see the contribution graph at the top of this profile.  
+- For repositories and languages, browse the “Repositories” tab and individual repo language breakdowns.  
+- For a sense of what I focus on, most of my recent work has been in backend services, security-related tooling, and web platforms.  
 
 ---
 
