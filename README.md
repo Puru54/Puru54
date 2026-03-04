@@ -1,7 +1,7 @@
 <!-- Profile header / hero -->
 <p align="center">
-  <a href="https://github.com/caffinecoder">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hi+there+👋;I'm+Purushotam+Adhikari;Backend+%7C+Cybersecurity+%7C+Blockchain" alt="Typing SVG" />
+  <a href="https://github.com/Puru54">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Hi+there+👋;I'm+Purushotam+Adhikari;Backend+%7C+Cybersecurity+%7C+WordPress+%7C+Blockchain" alt="Typing SVG" />
   </a>
 </p>
 
@@ -123,7 +123,7 @@ Passionate about **innovation, system optimization, and emerging technologies**�
 ### ⏱️ Weekly Development Breakdown
 
 ```text
-🕑︎ Time Zone: YOUR_TIMEZONE (e.g. Asia/Kolkata)
+🕑︎ Time Zone: Asia/Thimphu (UTC+06:00)
 
 💬 Programming Languages:
 TypeScript               4 hrs 12 mins   ███████░░░░░░░░░░░░░░░   35.0 %
@@ -160,11 +160,11 @@ Python                   XXX hrs XX mins ⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀   NN.NN 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Puru54&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Puru54&layout=compact&theme=radical" alt="Top Langs" />
 </p>
 
 ---
